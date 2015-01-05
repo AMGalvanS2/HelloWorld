@@ -1,0 +1,12 @@
+After completing both Employee.java and EmployeeTest.java
+
+Go to Terminal and cd to the Folder with these 2
+ex) cd introcs
+    cd Employee
+    
+Type this    
+javac Employee.java
+javac  EmployeeTest.java
+java EmployeeTest
+
+Then it will give you an output
